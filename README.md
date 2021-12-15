@@ -7,6 +7,16 @@
 ## Instructions
 Create an application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
 
+## <u>Note Taker App Preview:</u>
+
+### Landing Page:
+
+<img src="assets\landing-page.png" alt="landing page" />
+
+### Notes Page:
+
+<img src="assets\notes-page.png" alt="landing page" />
+
 ## User Story
 `AS A small business owner`
 
